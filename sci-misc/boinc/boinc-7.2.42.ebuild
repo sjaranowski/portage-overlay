@@ -103,7 +103,7 @@ src_install() {
 
 	if use X; then
 		newicon "${S}"/packages/generic/sea/${PN}mgr.48x48.png ${PN}.png || die
-		make_desktop_entry boincmgr "${PN}" "${PN}" "Math;Science" "Path=/var/lib/${PN}"
+		make_desktop_entry boincmgr "BOINC monitor and control utility" "${PN}" "Math;Science" "Path=/var/lib/${PN}"
 	fi
 
 	# cleanup cruft
