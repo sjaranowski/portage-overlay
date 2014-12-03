@@ -3,11 +3,11 @@
 <repositories version="1.0">
   <repo priority="100" quality="experimental" status="unofficial">
     <name>sjaranowski</name>
-    <description>Custom misc stuff for Gentoo from Sz. Jaranowski.</description>
+    <description>Some custom packages for x86-64 from Sz. Jaranowski.</description>
     <homepage>http://github.com/sjaranowski/</homepage>
     <owner>
       <email>szymon.jaranowski@gmail.com</email>
     </owner>
-    <source type="tar">file:///home/spj/Development/gentoo/portage-overlay.tar</source>
+    <source type="git">https://github.com/sjaranowski/portage-overlay.git</source>
   </repo>
 </repositories>
