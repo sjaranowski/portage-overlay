@@ -23,7 +23,7 @@ EGIT_COMMIT="client_release/7.2/7.2.42"
 
 LICENSE="LGPL-2.1"
 SLOT="0"
-KEYWORDS="~amd64 ~ia64 ~ppc ~ppc64 ~sparc ~x86"
+KEYWORDS="~amd64 ~x86"
 IUSE="X cuda static-libs"
 
 RDEPEND="
