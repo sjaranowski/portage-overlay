@@ -8,6 +8,6 @@
     <owner>
       <email>szymon.jaranowski@gmail.com</email>
     </owner>
-    <source type="git">https://github.com/sjaranowski/portage-overlay.git</source>
+    <source type="git">git://github.com/sjaranowski/portage-overlay.git</source>
   </repo>
 </repositories>
